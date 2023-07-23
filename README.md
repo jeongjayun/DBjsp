@@ -32,7 +32,13 @@
 
 ## 3. 프로젝트 설계
 ### 데이터베이스
-![image](https://github.com/jeongjayun/DBjsp/assets/116062065/f6892fab-bb25-4b72-8233-76ea382c28f1)
+[![image](https://github.com/jeongjayun/jeongjayun.github.io/assets/116062065/784d1efd-69d4-4f8c-9eff-6d0a56dcbc8e)](https://github.com/jeongjayun/jeongjayun.github.io/assets/116062065/784d1efd-69d4-4f8c-9eff-6d0a56dcbc8e)
+![image](https://github.com/jeongjayun/DBjsp/assets/116062065/8392fbbb-da40-44a0-8afc-1f6f6eb58286)![image](https://github.com/jeongjayun/DBjsp/assets/116062065/a6a41bda-c20d-41c0-ac63-cc3a2d791887)![image](https://github.com/jeongjayun/DBjsp/assets/116062065/7f3b0de2-c4de-45db-a08d-86cf2a5e56c5)![image](https://github.com/jeongjayun/DBjsp/assets/116062065/37b1479a-d4e7-476b-b4e0-600c848a4f83)![image](https://github.com/jeongjayun/DBjsp/assets/116062065/91c49cb8-15fd-4cc3-ac64-d4f32b1ec8f5)![image](https://github.com/jeongjayun/DBjsp/assets/116062065/5fe460ad-d706-497e-af3f-0e454de40439)
+
+
+
+
+
 
 ## 4. 프로젝트 주요 기능
 <details>
@@ -42,7 +48,8 @@
     
   - 메인 화면 및 로그인 하지 않은 상태
 
-![videoplayback](https://github.com/jeongjayun/DBjsp/assets/116062065/7c9d308c-5c81-404b-a9c0-b7b748db3838)
+![vid![image](https://github.com/jeongjayun/DBjsp/assets/116062065/77158053-5813-4971-8795-4795c51bf29f)
+eoplayback](https://github.com/jeongjayun/DBjsp/assets/116062065/7c9d308c-5c81-404b-a9c0-b7b748db3838)
 
 
   - 회원가입과 로그인(유효성 검사)
